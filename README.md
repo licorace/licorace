@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/licorace">
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=78ffd6&title_color=29323c"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
 </a>
 </div>
 
