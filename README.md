@@ -9,6 +9,7 @@
 - ⚡ Fun fact: ...
 
 ![licorace's GitHub stats](https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact)](https://github.com/licorace/github-readme-stats)
 <!--
 **licorace/licorace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
