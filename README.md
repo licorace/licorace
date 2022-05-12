@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -7,9 +8,20 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-----
 
 [![licorace's GitHub stats](https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&theme=radical)](https://github.com/licorace)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=yeblu)](https://github.com/licorace)
+
+<div>
+  <a href="https://github.com/swanine">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical"/>
+  </a>
+
+  <a href="https://github.com/swanine">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=swanine&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
+  </a>
+</div>
 
 <!--
 **licorace/licorace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
