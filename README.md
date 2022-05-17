@@ -1,4 +1,4 @@
-### Hi there I am licorace👋
+### Hi there I am licorace👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=licorace.licorace&color=00cf00)
 
 - 🔭 人在上海
 - 🌱 刚下地铁
@@ -10,14 +10,21 @@
 - 😈 秋名山手动挡战神堂堂登场
 -----
 
+![React](https://img.shields.io/badge/-React-666666?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-666666?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-666666?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node-666666?style=flat&logo=node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-666666?style=flat&logo=webpack)
+![Redux](https://img.shields.io/badge/-Redux-666666?style=flat&logo=redux)
+![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
+
 <div>
 <a href="https://github.com/licorace">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&theme=great-gatsby"/>
+  <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&&include_all_commits=truetheme=great-gatsby"/>
 </a>
-
-
 <a href="https://github.com/licorace">
-   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
+   <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
 </a>
 </div>
 
