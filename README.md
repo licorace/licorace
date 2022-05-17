@@ -12,12 +12,12 @@
 
 <div>
 <a href="https://github.com/licorace">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&theme=great-gatsby"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&theme=great-gatsby"/>
 </a>
 
 
 <a href="https://github.com/licorace">
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
+   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
 </a>
 </div>
 
