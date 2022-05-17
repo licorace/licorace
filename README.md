@@ -11,6 +11,7 @@
 -----
 
 ![React](https://img.shields.io/badge/-React-666666?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-React-666666?style=flat&logo=vue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-666666?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-666666?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node-666666?style=flat&logo=node.js)
@@ -18,6 +19,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-666666?style=flat&logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
+
 
 <p>
 <a href="https://github.com/licorace">
