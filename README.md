@@ -19,14 +19,14 @@
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
 
-<div>
+<p>
 <a href="https://github.com/licorace">
-  <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&include_all_commits=true&theme=great-gatsby"/>
+<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=licorace&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=great-gatsby&hide_border=true"/>
 </a>
 <a href="https://github.com/licorace">
-  <img width="300px" height="160px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
+<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
 </a>
-</div>
+</p>
 
 <p>
 <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tangweikun&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
