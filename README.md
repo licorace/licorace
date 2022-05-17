@@ -21,7 +21,7 @@
 
 <div>
 <a href="https://github.com/licorace">
-  <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&&include_all_commits=truetheme=great-gatsby"/>
+  <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api?username=licorace&show_icons=true&include_all_commits=true&theme=great-gatsby"/>
 </a>
 <a href="https://github.com/licorace">
    <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c"/>
