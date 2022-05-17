@@ -17,6 +17,7 @@
 ![Node.js](https://img.shields.io/badge/-Node-666666?style=flat&logo=node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-666666?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Webpack-666666?style=flat&logo=vite)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Redux](https://img.shields.io/badge/-Redux-666666?style=flat&logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
