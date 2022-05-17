@@ -20,6 +20,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-666666?style=flat&logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
+![Python](https://img.shields.io/badge/-Python-666666?style=flat&logo=Python)
 
 
 <p>
