@@ -1,13 +1,6 @@
 ### Hi there I am licorace👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=licorace.licorace&color=00cf00)
 
-- 🔭 人在上海
-- 🌱 刚下地铁
-- 👯 月薪三千
-- 🤔 兴趣广泛
-- 💬 赚钱事小
-- 📫 摸鱼为大
-- 😄 善吹逼，好幻想，有勇而无谋
-- 😈 秋名山手动挡战神堂堂登场
+
 -----
 
 ![React](https://img.shields.io/badge/-React-666666?style=flat&logo=react)
