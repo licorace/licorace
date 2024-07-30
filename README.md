@@ -1,4 +1,4 @@
-### Hi there I am licorace👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=licorace.licorace&color=00cf00)
+### Hi there I am licorace👋
 
 
 -----
