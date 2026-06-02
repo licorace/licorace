@@ -16,16 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-666666?style=flat&logo=Python)
 
 
-<p>
-  <!-- 统计卡片示例：Tokyo Night -->
-  <a href="https://github.com/licorace">
-    <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=licorace&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
-  <!-- 语言卡片示例：Radical 主题，紧凑布局 -->
-  <a href="https://github.com/licorace">
-    <img width="350px" height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&hide_border=true"/>
-  </a>
-</p>
 
 
 
