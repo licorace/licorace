@@ -17,12 +17,14 @@
 
 
 <p>
-<a href="https://github.com/licorace">
-<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=licorace&count_private=true&show_icons=true&line_height=31&theme=great-gatsby&hide_border=true"/>
-</a>
-<a href="https://github.com/licorace">
-<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&bg_color=30,c6ffdd,fbd786,f7797d&text_color=03001e&title_color=29323c&hide_border=true"/>
-</a>
+  <!-- 统计卡片示例：Tokyo Night -->
+  <a href="https://github.com/licorace">
+    <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=licorace&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </a>
+  <!-- 语言卡片示例：Radical 主题，紧凑布局 -->
+  <a href="https://github.com/licorace">
+    <img width="350px" height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licorace&layout=compact&theme=radical&hide_border=true"/>
+  </a>
 </p>
 
 
